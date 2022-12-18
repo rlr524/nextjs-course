@@ -8,6 +8,7 @@ const BlogPostsPage = () => {
 	return (
 		<div>
 			<h1>The Blog Posts</h1>
+			<p>Blog post is {router.query.slug}</p>
 		</div>
 	);
 };
