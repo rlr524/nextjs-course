@@ -4,6 +4,7 @@ const ClientsPage = () => {
 	const clients = [
 		{ id: "max", name: "Maximilian" },
 		{ id: "manu", name: "Manuel" },
+		{ id: "madi", name: "Madison" },
 	];
 
 	return (
